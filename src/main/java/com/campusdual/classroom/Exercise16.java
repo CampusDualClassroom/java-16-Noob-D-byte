@@ -18,6 +18,11 @@ public class Exercise16 {
 		plane.maintenance();
 		tractor.maintenance();
 
+		plane.takeOff();
+		plane.land();
+
+		tractor.backward();
+
 	}
 
 }
